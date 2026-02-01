@@ -139,6 +139,36 @@ I'm a passionate **Full-Stack Developer** specializing in modern JavaScript/Type
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+```text
+⭐ Total Repositories       15+
+🔥 Total Contributions      500+
+💻 Lines of Code Written    50,000+
+🎯 Primary Language         JavaScript/TypeScript
+📦 Projects Completed       20+
+🔐 Security Focus           High
+```
+
+</div>
+
+<div align="center">
+  
+### 🎯 Code Distribution
+
+| Language | Usage | Expertise Level |
+|:---------|:------|:----------------|
+| **JavaScript/TypeScript** | ████████████░░░░░░░░ 60% | ⭐⭐⭐⭐⭐ Expert |
+| **PHP/Laravel** | ██████░░░░░░░░░░░░░░ 20% | ⭐⭐⭐⭐ Advanced |
+| **Python** | ████░░░░░░░░░░░░░░░░ 15% | ⭐⭐⭐⭐ Advanced |
+| **C/C++** | ██░░░░░░░░░░░░░░░░░░ 5% | ⭐⭐⭐ Intermediate |
+
+</div>
+
+---
+
 ## 💼 Professional Experience
 
 ```javascript
